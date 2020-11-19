@@ -1,0 +1,20 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+fonts/Avenir-dsv.otf
+fonts/Avenir-dsv.otf
+fonts/Avenir-dsv.otf
+images/Frame-8-p-1080.png
+images/Frame-8-p-1600.png
+images/Frame-8-p-500.png
+images/Frame-8-p-800.png
+images/Screen-Shot-2020-11-18-at-6.28.59-PM-p-1080.png
+images/Screen-Shot-2020-11-18-at-6.28.59-PM-p-500.png
+images/Screen-Shot-2020-11-18-at-6.29.13-PM-p-1080.png
+images/Screen-Shot-2020-11-18-at-6.29.13-PM-p-500.png
+images/Screen-Shot-2020-11-18-at-6.29.13-PM-p-800.png
+images/Screen-Shot-2020-11-18-at-6.51.49-PM-p-1080.png
+images/Screen-Shot-2020-11-18-at-6.51.49-PM-p-500.png
+images/Screen-Shot-2020-11-18-at-6.51.49-PM-p-800.png
+images/Screen-Shot-2020-11-18-at-6.55.12-PM-p-500.png
+images/Screen-Shot-2020-11-18-at-9.22.00-PM-p-500.png
+images/Screen-Shot-2020-11-18-at-9.22.00-PM-p-800.png
